@@ -5,8 +5,8 @@ A Music Application  that lets users manage songs in a playlists
 ---Key functions---- 
 
 Playing Songs
-Add & Remove Songs
-Searching & Sorting Playlist
+Adding & Remove Songs
+Searching through & Sorting Playlist
 Shuffle & Repeat
 
 
