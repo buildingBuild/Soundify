@@ -1,13 +1,15 @@
 # Soundify
-A Music Application  that lets users add, organize and manage songs in different playlists 
+A Music Application  that lets users manage songs in a playlists 
 
 
 ---Key functions---- 
+
+Playing Songs
 Add & Remove Songs
-Create & Manage Playlists3
-Search & Sort
+Searching & Sorting Playlist
 Shuffle & Repeat
-Save & Load Data
+
+
 
 ---
 used as practice for oop principles and data structures such as vectors
