@@ -1,5 +1,5 @@
 # Soundify
-A Music Application  that lets users manage songs in a playlists 
+A Music Application  that lets users manage songs in a playlists and simulate playing music 
 
 
 ---Key functions---- 
